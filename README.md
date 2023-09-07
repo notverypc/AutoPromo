@@ -72,6 +72,13 @@ If an app is promoted the following happens:
 
 Example Slack Notification
 
+![Slack Message](https://github.com/notverypc/AutoPromo/blob/main/SlackNotification.png)
 
 ## How we run it
 We run the `AutoPromo` script as part of our nightly autopkg run using a GitLab runner:
+
+ ![GitLab Pipeline](https://github.com/notverypc/AutoPromo/blob/main/Pipeline.png)
+
+## Example pkginfo file:
+
+(https://github.com/notverypc/AutoPromo/blob/main/FirefoxLatest.munki.recipe)
