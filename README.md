@@ -72,5 +72,6 @@ If an app is promoted the following happens:
 
 Example Slack Notification
 
+
 ## How we run it
 We run the `AutoPromo` script as part of our nightly autopkg run using a GitLab runner:
